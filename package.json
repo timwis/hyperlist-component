@@ -1,0 +1,8 @@
+{
+  "name": "hyperlist-component",
+  "main": "index.js",
+  "dependencies": {
+    "hyperlist": "^1.0.0-alpha-6",
+    "nanocomponent": "^4.0.0"
+  }
+}
