@@ -1,5 +1,6 @@
 {
   "name": "hyperlist-component",
+  "version": "0.1.0",
   "main": "index.js",
   "dependencies": {
     "hyperlist": "^1.0.0-alpha-6",
